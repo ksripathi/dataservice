@@ -82,7 +82,7 @@
         "build_steps": {
           "configure": [],
           "pre_build": [
-            ""
+            
           ],
           "build": [
             "cd ../;make build"
